@@ -1,0 +1,93 @@
+c_appt_type_code	c_appt_type_desc_chn	c_appt_type_desc	check
+0	正授	Regular Appointment	
+1	權	Provisional Appointment	
+2	行	Lower Acting Appointment	
+3	守	Higher Acting Appointment	
+4	試	Exceptional Acting Appointment	
+5	權發遣	Temporary Appontment	
+6	借	Temporary Higher Office Appointment	
+7	假	Temporary	
+8	添差	Extraordinary Appointment	
+9	添差不釐務	Nominal Extraordinary Appointment	
+10	添差仍釐務	Extraordinary Appointment Serving	
+11	視	Provisional Appointment	
+12	攝	Irregular Appointment	
+20	封	Enfoeffed As	
+21	贈	Granted The Nominal Title Of	
+22	累贈	Granted The Further Nominal Title Of	
+23	卒贈	Granted The Nominal Title At Death	
+24	檢校	Honorary Title	
+25	入内	Eunuch	
+26	追封	Posthumously Enfoeffed	
+27	追贈	Posthumously Granted The Nominal Title Of	
+28	卒封	Enfoeffed At Death As	
+29	累封	Further Enfoeffed As	
+30	襲封	Inherited Enfoeffement As	
+31	署	Acting	
+32	判	Used When The Official'S Rank Is Higher  Than The Position Expects	
+33	簽書	Used When The Official'S Rank Is Lower Than The Position Expects	
+34	權管勾	Used When The Official'S Rank Is Lower Than The Position Expects	
+35	致仕	Retired	
+36	兼		
+37	恩例		1.0
+38	進階		
+39	表		1.0
+40	蔭襲		1.0
+41	任		
+42	誥贈		
+43	誥封		
+44	授		
+45	充		
+46	遙授		1.0
+47	賜		
+48	改		
+49	特進		
+50	進階		
+51	陞		
+52	追		
+53	援例		1.0
+54	敕封		
+55	贈署		1.0
+56	進		
+58	加		
+59	勅贈		
+60	例授		1.0
+61	選		
+62	調		
+63	降		
+64	補		
+65	差		
+66	歷		
+67	歷陞		
+68	復補		
+69	復除		
+70	謫		
+71	轉		
+72	復稱		1.0
+73	復改		
+74	復		
+75	改補		
+76	起		1.0
+77	調繁		
+78	擬授		
+79	左遷		
+80	超陞		
+81	降陞		1.0
+83	蔭		1.0
+84	復原		
+85	復調		
+86	補陞		
+87	除		
+88	遷		
+89	調補		
+91	降除		
+92	暫擬		
+93	暫		
+94	降補		
+95	考選		1.0
+96	擬		
+97	歷任		
+98	復起		
+99	候選	CANDIDATE FOR A POST	
+100	板授		
+101	添注		
