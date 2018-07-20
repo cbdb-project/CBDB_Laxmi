@@ -1,6 +1,3 @@
-SQL/20170424CBDBauUserSqlite.db
-SQL/sqlite_20180302.db
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -104,10 +101,6 @@ venv.bak/
 /site
 
 # mypy
-.mypy_cache/
-./NLP/cn_corpus/data_raw/no_pos_tag.zip
-./NLP/cn_corpus/data_raw/peoples_daily_pos_tagged_2014_01.zip
-./NLP/cn_corpus/data_raw/sqlite_20180302.db
-./NLP/cn_corpus/data_build/cn_modern_jieba/dict_pd_9801_1401.txt
-./SQL/20170424CBDBauUserSqlite.db
-./SQL/sqlite_20180302.db
+corpus/data_raw/no_pos_tag.zip
+corpus/data_raw/sqlite_20180302.db
+corpus/data_build/cn_modern_jieba/dict_pd_9801_1401.txt
