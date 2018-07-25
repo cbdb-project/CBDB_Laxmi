@@ -104,3 +104,4 @@ venv.bak/
 corpus/data_raw/no_pos_tag.zip
 corpus/data_raw/sqlite_20180302.db
 corpus/data_build/cn_modern_jieba/dict_pd_9801_1401.txt
+SQL/sqlite_20180302.db

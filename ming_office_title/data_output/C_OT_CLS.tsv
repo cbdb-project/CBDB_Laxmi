@@ -1,110 +1,120 @@
 c_ot_cls_id	c_ot_cls_chinm	c_ot_cls_engnm	value_to_run	c_ot_cls_desc	c_ot_cls_start	c_ot_cls_end	length
-0	京衛京營與中央軍事官署類	Central and Capital Militaries	1.0				12
-1	地方軍事與治安機構類	Regional and Local Military Units	1.0				10
-2	(行)都指揮使司門	(Auxiliary) Regional and Local Military Units	1.0				9
-83	五城兵馬指揮司門		1.0				8
-3	招討經略安撫使門	Various Pacification Commissions	1.0				8
-4	五城兵馬指揮司門	Wardens' Offices of the Five Wards	1.0				8
-5	番夷都指揮使司門	Frontier Native Military Units	1.0				8
-6	文武散階勛爵類	Honorary Civil and Military Titles	1.0				7
-7	司法監察機構類	Legislation and Censorship	1.0				7
-8	中央輔佐官署類	Central Administration Assistance	1.0				7
-9	皇太子與東宮門	Heir Apparent and Eastern Palace	1.0				7
-10	南京司法監察門	The Legislation and Censorate in Nanjing	1.0				7
-11	中央中樞官署類	The Central Government	1.0				7
-12	南京軍事官署門	Military Units in Nanjing	1.0				7
-59	典籍實錄修纂官		1.0				7
-63	洪武初東宮官		1.0				6
-13	南京僧道官門	Buddhist and Daoist Registries in Nanjing	1.0				6
-16	南京六科門	The Six Offices of Scrutiny in Nanjing	1.0				5
-24	王府護衞門	Escort Guard of Princely Establishment	1.0				5
-17	地方官署類	Regional and Local Governance	1.0				5
-14	地區軍官門	Regional Military Officials	1.0				5
-27	南京六部門	The Six Ministries in Nanjing	1.0				5
-85	南直隸軍官		1.0				5
-25	鹽課鹽運門	Salt Business	1.0				5
-26	南京官署類	The Auxiliary Capital in Nanjing	1.0				5
-23	皇族宮廷類	Imperial Family and Royal Court	1.0				5
-22	基層官署門	Community Governance	1.0				5
-21	牧鹽舶政類	Horse/Salt Business and Maritime Trade	1.0				5
-20	大都督府門	The Chief Military Commissions	1.0				5
-19	南京寺監門	The Courts and Directorates in Nanjing	1.0				5
-18	南京秘書門	The Administrative Assistance in Nanjing	1.0				5
-15	南京皇族門	Imperial Family and Royal Court in Nanjing	1.0				5
-90	寧夏軍官		1.0				4
-89	宣府軍官		1.0				4
-88	大同軍官		1.0				4
-87	四川軍官		1.0				4
-66	洪武舊制		1.0				4
-84	保定軍官		1.0				4
-81	掛印將軍		1.0				4
-73	通用軍官		1.0				4
-67	外差宦官		1.0				4
-92	山西軍官		1.0				4
-65	御前近侍		1.0				4
-91	山東軍官		1.0				4
-98	河南軍官		1.0				4
-93	廣東軍官		1.0				4
-94	廣西軍官		1.0				4
-95	延綏軍官		1.0				4
-96	昌平軍官		1.0				4
-97	江西軍官		1.0				4
-99	浙江軍官		1.0				4
-100	湖廣軍官		1.0				4
-101	漕運軍官		1.0				4
-102	甘肅軍官		1.0				4
-103	福建軍官		1.0				4
-104	薊州軍官		1.0				4
-105	貴州軍官		1.0				4
-62	三師三少		1.0				4
-107	遼東軍官		1.0				4
-108	陝西軍官		1.0				4
-106	通用軍官		1.0				4
-109	雲南軍官		1.0				4
-61	舊三大營		1.0				4
-32	武勛階門	Merit-Based Military Titles	1.0				4
-60	外交使節		1.0				4
-36	文勛階門	Merit-based Civil Titles	1.0				4
-35	中書省門	The Central Secretariat	1.0				4
-33	僧道官門	Buddhist and Daoist Registries	1.0				4
-34	武散階門	Prestige Military Titles	1.0				4
-31	文散階門	Prestige Civil Titles	1.0				4
-30	留守司門	The Regency	1.0				4
-29	市舶司門	Maritime Trade	1.0				4
-28	外命婦門	Noble Ladies	1.0				4
-43	京衛門	Military Guards of the Capital City	1.0				3
-48	秘書門	Secretary Offices	1.0				3
-47	宦官門	Eunuch Offices	1.0				3
-46	司法門	Legislation	1.0				3
-45	六部門	Six Ministries	1.0				3
-44	寺監門	Courts and Directorates	1.0				3
-38	考官門		1.0				3
-42	馬政門	Horse Management	1.0				3
-41	勛爵門	Noble Titles	1.0				3
-40	京營門	Military Training Units in the Capital	1.0				3
-39	帝后門	Emperors and Empresses	1.0				3
-37	女官門	Palace Women	1.0				3
-49	縣官門	District Governance	1.0				3
-55	宗室門	The Imperial Clan	1.0				3
-50	公師門	The Three Dukes and Three Solitaries	1.0				3
-52	州官門	Sub-prefectural Governance	1.0				3
-82	東宮官		1.0				3
-53	內閣門	The Grand Secretariat	1.0				3
-80	各門官		1.0				3
-79	皇門官		1.0				3
-78	王府官		1.0				3
-64	內命婦		1.0				3
-58	監察門	Censorate	1.0				3
-57	六科門	The Six Offices of Scrutiny	1.0				3
-51	京府門	Superior Prefectural Governance	1.0				3
-54	省官門	Provincial Governance	1.0				3
-56	府官門	Prefectural Governance	1.0				3
-69	藩王		1.0				2
-68	諸王		1.0				2
-74	縣官		1.0				2
-75	各道		1.0				2
-76	府官		1.0				2
-77	州官		1.0				2
-70	公		1.0				1
-71	侯		1.0				1
-72	伯		1.0				1
+0	京衛京營與中央軍事官署類	Central and Capital Militaries	1				12
+1	地方軍事與治安機構類	Regional and Local Military Units	1				10
+2	(行)都指揮使司門	(Auxiliary) Regional and Local Military Units	1				9
+3	招討經略安撫使門	Various Pacification Commissions	1				8
+4	五城兵馬指揮司門	Wardens' Offices of the Five Wards	1				8
+5	番夷都指揮使司門	Frontier Native Military Units	1				8
+117	招討經略安撫使門		1				8
+116	番夷都指揮使司門		1				8
+83	五城兵馬指揮司門		1				8
+11	中央中樞官署類	The Central Government	1				7
+12	南京軍事官署門	Military Units in Nanjing	1				7
+59	典籍實錄修纂官		1				7
+10	南京司法監察門	The Legislation and Censorate in Nanjing	1				7
+8	中央輔佐官署類	Central Administration Assistance	1				7
+9	皇太子與東宮門	Heir Apparent and Eastern Palace	1				7
+7	司法監察機構類	Legislation and Censorship	1				7
+6	文武散階勛爵類	Honorary Civil and Military Titles	1				7
+13	南京僧道官門	Buddhist and Daoist Registries in Nanjing	1				6
+63	洪武初東宮官		1				6
+25	鹽課鹽運門	Salt Business	1				5
+85	南直隸軍官		1				5
+112	春宮門/官		1				5
+113	總督巡撫官		1				5
+27	南京六部門	The Six Ministries in Nanjing	1				5
+26	南京官署類	The Auxiliary Capital in Nanjing	1				5
+114	大都督府門		1				5
+24	王府護衞門	Escort Guard of Princely Establishment	1				5
+18	南京秘書門	The Administrative Assistance in Nanjing	1				5
+14	地區軍官門	Regional Military Officials	1				5
+15	南京皇族門	Imperial Family and Royal Court in Nanjing	1				5
+16	南京六科門	The Six Offices of Scrutiny in Nanjing	1				5
+23	皇族宮廷類	Imperial Family and Royal Court	1				5
+17	地方官署類	Regional and Local Governance	1				5
+19	南京寺監門	The Courts and Directorates in Nanjing	1				5
+20	大都督府門	The Chief Military Commissions	1				5
+21	牧鹽舶政類	Horse/Salt Business and Maritime Trade	1				5
+22	基層官署門	Community Governance	1				5
+67	外差宦官		1				4
+73	通用軍官		1				4
+81	掛印將軍		1				4
+93	廣東軍官		1				4
+84	保定軍官		1				4
+87	四川軍官		1				4
+88	大同軍官		1				4
+89	宣府軍官		1				4
+90	寧夏軍官		1				4
+91	山東軍官		1				4
+92	山西軍官		1				4
+104	薊州軍官		1				4
+94	廣西軍官		1				4
+95	延綏軍官		1				4
+96	昌平軍官		1				4
+97	江西軍官		1				4
+98	河南軍官		1				4
+99	浙江軍官		1				4
+100	湖廣軍官		1				4
+101	漕運軍官		1				4
+102	甘肅軍官		1				4
+103	福建軍官		1				4
+105	貴州軍官		1				4
+106	通用軍官		1				4
+107	遼東軍官		1				4
+108	陝西軍官		1				4
+109	雲南軍官		1				4
+66	洪武舊制		1				4
+65	御前近侍		1				4
+62	三師三少		1				4
+61	舊三大營		1				4
+60	外交使節		1				4
+36	文勛階門	Merit-based Civil Titles	1				4
+35	中書省門	The Central Secretariat	1				4
+34	武散階門	Prestige Military Titles	1				4
+32	武勛階門	Merit-Based Military Titles	1				4
+33	僧道官門	Buddhist and Daoist Registries	1				4
+31	文散階門	Prestige Civil Titles	1				4
+30	留守司門	The Regency	1				4
+29	市舶司門	Maritime Trade	1				4
+28	外命婦門	Noble Ladies	1				4
+42	馬政門	Horse Management	1				3
+48	秘書門	Secretary Offices	1				3
+47	宦官門	Eunuch Offices	1				3
+46	司法門	Legislation	1				3
+45	六部門	Six Ministries	1				3
+44	寺監門	Courts and Directorates	1				3
+43	京衛門	Military Guards of the Capital City	1				3
+64	內命婦		1				3
+41	勛爵門	Noble Titles	1				3
+40	京營門	Military Training Units in the Capital	1				3
+39	帝后門	Emperors and Empresses	1				3
+38	考官門		1				3
+49	縣官門	District Governance	1				3
+115	會試官		1				3
+37	女官門	Palace Women	1				3
+50	公師門	The Three Dukes and Three Solitaries	1				3
+51	京府門	Superior Prefectural Governance	1				3
+57	六科門	The Six Offices of Scrutiny	1				3
+52	州官門	Sub-prefectural Governance	1				3
+79	皇門官		1				3
+80	各門官		1				3
+82	東宮官		1				3
+58	監察門	Censorate	1				3
+78	王府官		1				3
+56	府官門	Prefectural Governance	1				3
+54	省官門	Provincial Governance	1				3
+53	內閣門	The Grand Secretariat	1				3
+118	中書科		1				3
+55	宗室門	The Imperial Clan	1				3
+77	州官		1				2
+76	府官		1				2
+75	各道		1				2
+74	縣官		1				2
+69	藩王		1				2
+68	諸王		1				2
+86	王		1				1
+111	后		1				1
+72	伯		1				1
+71	侯		1				1
+70	公		1				1
+110	帝		1				1
